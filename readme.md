@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=FF0000&style=for-the-badge%22/>
+<img src="https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge%22/>
 </div>
 
 # Trabalho: Relógio Digital
