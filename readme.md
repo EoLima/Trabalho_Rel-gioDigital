@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge%22/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </div>
 
 # Trabalho: Relógio Digital
@@ -12,7 +12,7 @@ O projeto foi realizado seguindo o vídeo da <a href="https://www.youtube.com/wa
 
 # 📷 Versão Web
 
-<div align="center" >
+<div align="center">
  <img src="https://github.com/EoLima/Trabalho_RelogioDigital/assets/123023440/585727f4-701e-4f45-aa50-32962531bea5">
 </div>
 
